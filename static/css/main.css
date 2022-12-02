@@ -1,0 +1,40 @@
+
+h1 {
+    text-align: center;
+    color : #E9E7E7
+    
+}
+
+body{
+    
+    font-family: 'Karla';
+    background-color:#181818;
+    color : #E9E7E7
+    /*background-image: url(../img/earbuds-gbd0b91faa_1920.jpg); */
+}
+
+.work{
+   
+    text-align: justify;
+    width: 560px;
+    margin: auto;
+    color : #E9E7E7
+    
+}
+
+
+
+h4{
+    text-align: center;
+    color : #E9E7E7
+}
+
+p{
+    width:560px;
+    margin:auto;
+    color : #E9E7E7
+}
+
+.separador{
+    height: 30px;
+}
